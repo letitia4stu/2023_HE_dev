@@ -13,7 +13,6 @@
 ## TAI calculaiton
 - Performed using MyTAI
 
-- 
 ## DEGs
 - Performed using DESeq2
 - Identification criteria: adjusted p-value ≤ 0.05, |log2FoldChange| ≥ 1
